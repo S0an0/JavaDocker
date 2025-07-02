@@ -1,0 +1,32 @@
+# Java
+*.class
+
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Docker
+*.jar
+*.war
+*.ear
+.dockerignore
+Dockerfile*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Other
+HELP.md 
